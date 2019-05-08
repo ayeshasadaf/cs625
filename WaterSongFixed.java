@@ -1,5 +1,4 @@
-public class WaterSongFixed
- {
+public class WaterSongFixed {
 public static void main(String[] arg) {
 int waterNum =9;
 String word ="bottles";
